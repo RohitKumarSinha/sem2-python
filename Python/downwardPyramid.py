@@ -1,3 +1,4 @@
+#downward pattern printing
 def downwardPyramid():
     num = eval(input("Enter the value of n :- "))
     for i in range(num, 0, -1):

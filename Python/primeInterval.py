@@ -1,3 +1,4 @@
+#print all the prime number between two intervals
 def primeInterval():
     lower = int(input("Enter the first number :- "))
     upper = int(input("Enter the second number :- "))

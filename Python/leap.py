@@ -1,3 +1,4 @@
+#checking whether a year is leap or not
 def leapYear():
     year = eval(input("Enter a year :- "))
     flag = 0

@@ -1,3 +1,4 @@
+#check whether a student is fail or pass in exam
 def subjectMarks():
     print("please Enter the marks of five subject")
     sub1 = eval(input("Enter the marks of first subject out of 100 :- "))

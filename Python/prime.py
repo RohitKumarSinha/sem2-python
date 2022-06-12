@@ -1,3 +1,4 @@
+#check a number is prime or not
 def prime():
     num = eval(input("Enter a positive number :- "))
     flag = 1

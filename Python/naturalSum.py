@@ -1,3 +1,4 @@
+#sum of natural number using loop
 def sum():
     num = eval(input("Enter a number :- "))
     count = 0

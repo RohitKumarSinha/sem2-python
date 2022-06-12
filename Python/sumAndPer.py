@@ -1,3 +1,4 @@
+#print the total marks of the subject and percentage
 def subjectMarks():
     print("please Enter the marks of five subject")
     sub1 = eval(input("Enter the marks of first subject :- "))
